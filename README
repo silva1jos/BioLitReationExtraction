@@ -1,0 +1,8 @@
+Currently the process of generating features and creating classifiers is:
+create_train_and_test_features.ipynb
+add_ids_and_cosines.ipynb
+classificationModel.ipynb
+
+The other two notebooks were used to make graphs.
+The pubmed* files were used to pull abstracts from pubmed.
+The archive folder contains notebooks/python scripts that are not currently used, and acted as exploration for feature development.

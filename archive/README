@@ -1,0 +1,9 @@
+pubmed_xml.py: Functions for obtaining XML files through pubmed
+pubmed_ids.csv: All of the pubmed ids in the GAD dataset
+pubmed_retrival.ipynb: Process of how pubmed_xml was developed, also documation on the pubmed api used
+combine_corpus.ipynb: Initial look into the various corpus availible and what data they contained
+convert_to_preprocessed.ipynb: Converted scripts from muazzam/liang to term XML data into the form we are using
+exmplore_spacy.ipynb: Looking into how to use spacy for potential features for the project
+proprocssing.py: Functions for preprocessing, an adapted version of muazzam's script
+sentence_features.ipynb: the scripts to convert GAD_Y_N data into features and writes them
+sentence_features.py: same as above, I don't think I updated this so it may still have bugs w/ re-tokenizer.
